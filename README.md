@@ -9,4 +9,6 @@ Hidden Markov models have also been used for speech recognition and speech gener
 In this project, I built a deep neural network that functions as part of an end-to-end machine translation pipeline with Keras. The pipeline will accept English text as input and return the French translation. 
 Four different RNN models have been built in the notebook - simple model using only GRU, word embedding + LSTM, encoder-decoder and Bidirectional RNN. The final model achieved 96% tranlation accuracy with the combination of word embedding and Bidirectional RNN.
 
+![](NLP%20NanoDegree%20certificate.png)
+
 
